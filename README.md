@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera_Capstone to submit pandas library capstone project .
+Create a new repository on your Github account
